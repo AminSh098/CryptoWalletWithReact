@@ -11,6 +11,8 @@ import Fingerprint from './Component(5).png';
 import Shield from './Component(6).png';
 import ShieldDark from './Component(3).png';
 import Credit from './Component(4).png';
+import laptop from './laptop.png';
+import phone from './phone.png';
 
 export {
     Menu,
@@ -25,5 +27,7 @@ export {
     Fingerprint,
     Shield,
     ShieldDark,
-    Credit
+    Credit,
+    laptop,
+    phone
 }
