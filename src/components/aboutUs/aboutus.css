@@ -1,0 +1,27 @@
+.CW__aboutUs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 430px;
+    height: 402px;
+    border-radius: 5px;
+}
+
+.CW__aboutUs-text {
+    width: 70%;
+    text-align: center;
+}
+
+.CW__aboutUs-text p {
+    color: var(--color-p);
+    font-size: 18px;
+}
+
+.CW__aboutUs:hover {
+    background: linear-gradient(156.79deg, rgba(255, 248, 241, 0.45) 0.44%, #FFF8F2 61.76%, #E0FBE5 134.86%);
+/* Drop shadow */
+
+    box-shadow: 25px 25px 100px rgba(166, 161, 157, 0.2);
+    border-radius: 12px;
+}

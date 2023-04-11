@@ -1,0 +1,36 @@
+.CW__possibility {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.CW__possibility-whyUs {
+    width: 750px;
+    text-align: center;
+}
+
+.CW__possibility-whyUs h1 {
+    font-size: 3em;
+}
+
+.CW__possibility-whyUs p {
+    font-size: 1.5em;
+    color: var(--color-p);
+}
+
+.CW__possibility-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+@media screen and (max-width: 900px) {
+
+    .CW__possibility-whyUs {
+        width: 100%;
+        text-align: center;
+    }
+}

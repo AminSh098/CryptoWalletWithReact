@@ -1,0 +1,22 @@
+:root {
+    --color-orange: #F05830;
+    --color-green: #236E57;
+    --color-p: #807D7D;
+}
+
+*,button {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.App {
+    background-color: #FFF8F1;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
