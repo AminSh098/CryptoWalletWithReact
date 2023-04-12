@@ -16,6 +16,9 @@ import phone from './phone.png';
 import AppStore from './app-store.svg';
 import GooglePlay from './google-play.svg';
 import GreenRectangle from './greenRectangle.png';
+import Facebook from './facebook.svg';
+import Instagram from './instagram.svg';
+import Twitter from './twitter.svg';
 
 export {
     Menu,
@@ -35,5 +38,8 @@ export {
     phone,
     AppStore,
     GooglePlay,
-    GreenRectangle
+    GreenRectangle,
+    Facebook,
+    Instagram,
+    Twitter
 }
