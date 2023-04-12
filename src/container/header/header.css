@@ -53,14 +53,13 @@
 }
 
 .CW__header-img {
-    width: 100%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
 
 .CW__header-img img {
-    height: 600px;
+    width: 600px;
 }
 
 .CW__header-img-smallPhones {
@@ -90,6 +89,39 @@
 
     .CW__header {
         margin: 5rem 0 5rem 5rem;
+    }
+
+    .CW__header-text h1 {
+        font-size: 40px;
+    }
+    
+    .CW__header-text p {
+        font-size: 18px;
+    }
+
+    .CW__header_text-start button {
+        font-size: 15px;
+        padding: 1rem 2.5rem;
+    }
+
+    .CW__header_text-start img {
+        width: 170px;
+    }
+
+    .CW__header_text_start-Subs h3 {
+        font-size: 2em;
+    }
+        
+    .CW__header_text_start-Subs p {
+        font-size: 14px;
+    }
+
+    .CW__header-img {
+        width: 50%;
+    }
+
+    .CW__header-img {
+        width: 100%;
     }
 }
 
