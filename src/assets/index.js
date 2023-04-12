@@ -15,6 +15,7 @@ import laptop from './laptop.png';
 import phone from './phone.png';
 import AppStore from './app-store.svg';
 import GooglePlay from './google-play.svg';
+import GreenRectangle from './greenRectangle.png';
 
 export {
     Menu,
@@ -33,5 +34,6 @@ export {
     laptop,
     phone,
     AppStore,
-    GooglePlay
+    GooglePlay,
+    GreenRectangle
 }
