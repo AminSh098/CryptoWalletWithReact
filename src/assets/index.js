@@ -13,6 +13,8 @@ import ShieldDark from './Component(3).png';
 import Credit from './Component(4).png';
 import laptop from './laptop.png';
 import phone from './phone.png';
+import AppStore from './app-store.svg';
+import GooglePlay from './google-play.svg';
 
 export {
     Menu,
@@ -29,5 +31,7 @@ export {
     ShieldDark,
     Credit,
     laptop,
-    phone
+    phone,
+    AppStore,
+    GooglePlay
 }
